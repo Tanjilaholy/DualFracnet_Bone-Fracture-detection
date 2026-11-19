@@ -1,4 +1,4 @@
-# DualFracNet: Bone Fracture Detection from X-ray Images
+#DualFracNet: A Hybrid CNN-Transformer Architecture with CBAM Attention for Musculoskeletal Fracture Detection
 
 > **This research was accepted and presented at the 5th IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (IEEE BECITHCON 2026).**
 
